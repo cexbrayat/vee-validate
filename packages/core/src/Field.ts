@@ -107,7 +107,7 @@ export const Field = defineComponent({
     });
 
     return () => {
-      let tag = props.as;
+      let tag = props.as as unknown as string;
       if (!props.as && !ctx.slots.default) {
         tag = 'input';
       }

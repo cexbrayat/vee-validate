@@ -53,7 +53,7 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-config-standard": "^9.0.0",
     "typescript": "^3.9.3",
-    "vue": "^3.0.0-beta.15",
+    "vue": "^3.0.0-rc.8",
     "yup": "^0.29.3"
   },
   "peerDependencies": {
